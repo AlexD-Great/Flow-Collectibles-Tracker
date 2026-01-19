@@ -250,22 +250,22 @@ npm run test:e2e
 
 ## 📈 Roadmap
 
-### Q1 2025
+### Q1 2026
 - ✅ Project setup and architecture
 - 🔄 MVP development (wallet connection, basic holdings)
 - 🔄 Floor pricing integration
 
-### Q2 2025
+### Q2 2026
 - P/L tracking implementation
 - Cross-marketplace comparisons
 - Advanced alert system
 
-### Q3 2025
+### Q3 2026
 - Pro tier launch
 - Shareable portfolio cards
 - Mobile app (React Native)
 
-### Q4 2025
+### Q4 2026
 - Tax reporting features
 - API for third-party integrations
 - Advanced analytics dashboard
