@@ -1,7 +1,7 @@
 import * as fcl from "@onflow/fcl"
 
 export interface FlowUser {
-  addr: string | null
+  addr: string | null | undefined
   loggedIn: boolean
 }
 
